@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_379456_voucher_n_voucher_table</description>
+        <name>x_379456_voucher_n_voucher_table</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-23 17:10:13</sys_created_on>
+        <sys_id>c2556cc04f233300dcb88020a310c7e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_379456_voucher_n_voucher_table</sys_name>
+        <sys_package display_value="Voucher name" source="x_379456_voucher_n">52b4e8404f233300dcb88020a310c70e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Voucher name">52b4e8404f233300dcb88020a310c70e</sys_scope>
+        <sys_update_name>sys_security_acl_c2556cc04f233300dcb88020a310c7e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-23 17:10:13</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

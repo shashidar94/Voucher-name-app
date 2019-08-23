@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_379456_voucher_n.voucher_table_user" name="x_379456_voucher_n.voucher_table_user">715568c04f233300dcb88020a310c7ef</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-23 17:10:13</sys_created_on>
+        <sys_id>795568c04f233300dcb88020a310c7f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>715568c04f233300dcb88020a310c7ef</sys_name>
+        <sys_package display_value="Voucher name" source="x_379456_voucher_n">52b4e8404f233300dcb88020a310c70e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Voucher name">52b4e8404f233300dcb88020a310c70e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_795568c04f233300dcb88020a310c7f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-23 17:10:13</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
